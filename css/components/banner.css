@@ -1,0 +1,23 @@
+.banner{
+  width: 100%;
+  padding: 150px 0;
+  color: white;
+  background-image: url('../../images/background.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner p {
+  color: lightgrey;
+  margin-bottom: 40px;
+}
+
+.banner a {
+  background-color: green;
+  padding: 12px 18px ;
+  border: 1px solid green;
+  border-radius: 20px;
+  color: white;
+
+}
